@@ -7,7 +7,7 @@ import asyncio
 import sys
 from typing import AsyncIterator
 
-api_key = "gY80p6a14yvu0jfMzv1SSeiXl43hn8QB"
+api_key = "xxxxxxxxxxxxxxxxxxxxx"
 client = Mistral(api_key=api_key)
 messages = [
     {
