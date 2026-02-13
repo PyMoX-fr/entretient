@@ -6,7 +6,7 @@ from mistralai import Mistral
 contenu  = ""
 
 async def main():
-    api_key = "gY80p6a14yvu0jfMzv1SSeiXl43hn8QB"
+    api_key = "xxxxxxxx"
     model = "mistral-large-latest"
     global contenu
     client = Mistral(api_key=api_key)
